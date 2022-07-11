@@ -1,2 +1,1 @@
-# Exercício_em_liguagem_C_Gabriel
-Urna Eleitoral 
+# Exercícios em linguagem C 
